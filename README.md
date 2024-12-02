@@ -8,7 +8,8 @@
 ---
 
 ## 🛠️ My Toolkit
-- **Languages:** HTML | CSS | JavaScript | Python  
+- **Languages:** ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+ | Python  
 - **What I love:** Turning ideas into functional designs, solving challenges with creativity, and building things that make people go "Wow!"  
 
 ---
